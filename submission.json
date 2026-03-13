@@ -1,0 +1,7 @@
+{
+  "prompt": "A single, emotionally powerful data visualization that completely avoids standard charts. The image shows a vast, desolate landscape of cracked earth (representing drought-affected farmland), with a single, fragile human figure walking toward a distant, faint green patch (representing remaining arable land). The crack patterns are data-accurate but transformed into terrain. The color palette shifts from desaturated browns in the foreground to hopeful muted greens in the distance. The composition uses a low horizon line and dramatic sky to emphasize scale and emotional weight. No text, no labels, no legends. The visual alone conveys: 'We are running out of time, but hope remains in small pockets.' The image is photorealistic but clearly symbolic, 4K, shot on medium format, cinematic lighting.",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "FAO AQUASTAT - Global farmland area under drought conditions, 2000-2024",
+  "dataset_url": "https://www.fao.org/aquastat/en/",
+  "insight": "Over 40% of global farmland has experienced severe drought in the past decade, with recovery possible only in isolated regions."
+}
